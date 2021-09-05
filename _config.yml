@@ -21,8 +21,8 @@
 title: AI Politics Untitled Book
 description: >- # this means to ignore newlines until "baseurl:"
   This is an untitled book I'm working on.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "ai-politician-book/" # the subpath of your site, e.g. /blog
+url: "https://jafayer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joshuafayer
 github_username:  jafayer
 collections: 
