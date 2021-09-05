@@ -1,0 +1,8 @@
+<ul class="toc">
+{% assign sorted = site.chapters | sort: 'chapter' %}
+{% for chapter in sorted %}
+<li><a href="{{chapter.url}}">{{chapter.chapter}}. {{chapter.title}}</a></li>
+{% endfor %}
+</ul>
+    
+    

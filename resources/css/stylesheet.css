@@ -1,0 +1,27 @@
+:root, p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif;
+    color: #222;
+}
+
+
+ul.toc {
+    border-left: #444 5px solid;
+    margin: 15px;
+    padding: 10px;
+}
+
+.toc li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Chapter CSS */
+
+main {
+    max-width: 600px;
+    width: 85%;
+    margin: 15px auto;
+    font-size: larger;
+    font-family: 'Merriweather', serif;
+}
