@@ -3,6 +3,10 @@
     color: #222;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
 
 ul.toc {
     border-left: #444 5px solid;
@@ -24,4 +28,13 @@ main {
     margin: 15px auto;
     font-size: larger;
     font-family: 'Merriweather', serif;
+}
+
+footer {
+    padding: 50px;
+    margin-top: auto;
+}
+
+footer p {
+    text-align: center;
 }

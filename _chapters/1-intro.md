@@ -36,13 +36,13 @@ Taylor cleared his throat. “Hey Simon, hey everyone. Alright so AFG is all set
 
 “Yep, thanks Taylor. Alright, so there’s some good news and some bad news. The bad news is that we’ve barely got enough in the bank to pay everyone on this call through the end of the month — so there’s not a lot of room for error here. But the good news is, we’re expecting this race to have a huge national draw. Which, I guess brings us back to some more bad news,” Marjorie chuckled dryly.
 
-“We’re obviously soldly in uncharted waters here. We know this race is going to draw a lot of attention — but we don’t exactly know who’s going to benefit from that. As soon as we launch, we’re going to have to fundraise like nobody’s business, because if we’re not, someone else is.”
+“We’re obviously solidly in uncharted waters here. We know this race is going to draw a lot of attention — but we don’t exactly know who’s going to benefit from that. As soon as we launch, we’re going to have to fundraise like nobody’s business, because if we’re not, someone else is.”
 
 “Thanks Marjorie. That transitions pretty cleanly over to Immedia. How’s it hangin’?”
 
 “Rich here! Going pretty swell! We got the first round of draft fundraising emails over to Simon yesterday evening and he got back edits… well, pretty fast,” RIch laughed. “Everything’s rocking and rolling over here. But we’ve just got to flag once again that there’s still some pretty fundamental stuff we’ve got to settle before we’re ready to get up and running.”
 
-“Such as?” Taylor asked. He knew what the answer was. But he figured he was paying consulants, so they might as well be the ones to have to bring it up.
+“Such as?” Taylor asked. He knew what the answer was. But he figured he was paying consultants, so they might as well be the ones to have to bring it up.
 
 “Well… It’s just that we’ve never run a candidate who… uh…” Rich started and stopped a few times, never quite landing on a solid first syllable to any word in particular.
 
@@ -66,4 +66,38 @@ Taylor cleared his throat. “Hey Simon, hey everyone. Alright so AFG is all set
 
 "So you think I need to appear as a human for this campaign to work?" Simon asked.
 
-"If I may, Simon," Rich interjeted. "I think anything else is just a bridge too far for most voters. Look, the past 10 years or so have been a pretty greuling time in court, and while artificial consciousness technically *can* run for office now, it's never happened before for a reason. It's been the subject of some decorative op-ed's, but no one's really given it too much thought. We're going to be pushing a lot of envelopes here, and anything less than human-passing is just going to be a distraction."
+"If I may, Simon," Rich interjected. "I think anything else is just a bridge too far for most voters. Look, the past 10 years or so have been a pretty grueling time in court, and while artificial consciousness technically *can* run for office now, it's never happened before for a reason. It's been the subject of some decorative op-ed's, but no one's really given it too much thought. We're going to be pushing a lot of envelopes here, and anything less than human-passing is just going to be a distraction."
+
+"That sounds good to me." Simon said back curtly. "I leave the specifics up to you."
+
+Taylor waited a few awkward moments before starting again. "Alright, well, I think we all have our marching orders. Let's continue on from here and stay in touch throughout the week."
+
+"Taylor, can you stay on?" Simon asked, as callers quickly left. He waited until the last ding chimed. "I would like to discuss the future of this campaign with you.”
+
+“How so?” Taylor asked.
+
+“We’ll be getting the results of our first poll in a short time. We do not have the resources to continue this campaign through the primary election for the sake of vanity or experimentation. If the results of this poll are unfavorable, I would like to consider dropping out of the race.” Simon said.
+
+Taylor thought for a second. “Y’know, I’ve worked for a couple of candidates like you before.”
+
+Simon chuckled. “Surely none quite like me.”
+
+“Mm. Not quite like you, no. I suppose not. But you’re brilliant, Simon. You’re programmed to be the perfect candidate. Charismatic. Personable. I’m not sure what techno wizardry’s going on behind you, and I certainly wouldn’t be able to stay awake through an explanation, but from what I hear you’ve got the entire corpus of political history crammed into your head.” Taylor mused.
+
+“This is true.” Simon replied.
+
+“Well. All those smarts aren’t going to mean a damn thing if you run for the hills because you’re afraid to fail.” Taylor paused for a moment. “Do you know how many campaigns I’ve worked on?”
+
+“Fourteen,” Simon said.
+
+“That’s right. And do you know how many I lost before I got to win one?”
+
+“Five.”
+
+“Sure did. Now, you’re surely better than I am at math, but I think I can subtract two numbers just fine, and my math tells me that I helped get nine people elected to government to do things I believed would actually help make this country a better place. Things like passing laws that would enable you to run for office. And if I ran for the hills after I saw my first set of poll numbers, I can’t say for sure all of those people would have won their races with someone else managing it.”
+
+“I understand that. But there are people — campaign staff, your colleagues — who are counting on this. If we’re leading them down a path when we can’t even pay them through the primary—”
+
+“Then we’ll be just the same as every other campaign out there that didn’t make it through the primary.” Taylor replied curtly. “Look, Simon, I appreciate the concern, but everyone’s here because they want to be. And they’ll get new jobs if this goes under. I’m just pulling up to the office now, I’ll talk to ya inside.” Taylor said and hung up the phone.
+
+The door popped open, and he sighed for a moment and pinched the bridge of his nose. “Long day,” he muttered to himself before climbing out of the car, shutting the door and heading into the building.
